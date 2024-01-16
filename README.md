@@ -1,4 +1,4 @@
-![Cover photo](matplotlibss/lab.jpeg){:width="500px"}
+![Cover photo](matplotlibss/lab.jpeg)
 
 Source: https://www.google.com/search?q=funny+testing+lab+photos&sca_esv=598710583&tbm=isch&sxsrf=ACQVn09OfmOEv4AUyJMooSkXc8pOwImh5Q:1705382181236&source=lnms&sa=X&ved=2ahUKEwjjtPnYk-GDAxU4R2wGHebGAzAQ_AUoAXoECAEQAw&biw=1336&bih=881&dpr=1#imgrc=rTb0Xp5JNG_yTM
 
@@ -20,35 +20,35 @@ Perform the necessary calculations and then create a high-level summary statisti
 * Cleaning the data from duplicates to create a clean DataFrame for future reference
 * Generate a summary statistic table calculating: the mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
 
-![Screen Shot of Summary Table](matplotlibss/summarytable.png){:width="300px"}
+![Screen Shot of Summary Table](matplotlibss/summarytable.png)
 
 * Generate a Bar Plot using both Panda's DataFrame.plot() and Matplotlib's pyplot that calculates the relation between Timepoints and Drug Regimen.
 
-![Screen Shot of Bar Plot](matplotlibss/bargraph.png){:width="300px"}
+![Screen Shot of Bar Plot](matplotlibss/bargraph.png)
 
 * Generate a Pie Plot using both Panda's DataFrame.plot() and Matplotlib's pyplot that calculates the distribution of male vs. female mice in the test.
 
-![Screen Shot of Pie Plot](matplotlibss/piesex.png){:width="300px"}
+![Screen Shot of Pie Plot](matplotlibss/piesex.png)
 
 * Calculate the final tumor volume for four selected drug regimens: Capomulin, Ramicane, Infubinol and Ceftamin to determine potential outliers and calculate the quartiles and IQR.
 Based on that information using Matplotlib, generate a box and whisker of the final tumor volume for all before mentioned treatments. 
 
-![Screen Shot of Box Whisker Plot](matplotlibss/boxwhisker.png){:width="300px"}
+![Screen Shot of Box Whisker Plot](matplotlibss/boxwhisker.png)
 
 * Select a mouse ID l509 that was treated with Capomulin and generate a line plot analysing relation between the timepoint and tumor volume for that specific mouse.
 
-![Screen Shot of Line Plot](matplotlibss/lineplot.png){:width="300px"}
+![Screen Shot of Line Plot](matplotlibss/lineplot.png)
 
 * Generate a scatter plot of mouse weight and average tumor volume for Capomulin treatment only.
 
-![Screen Shot of Scatter Plot](matplotlibss/scatter.png){:width="300px"}
+![Screen Shot of Scatter Plot](matplotlibss/scatter.png)
 
 * Calculate correlation coefficient and linear regression relating to mouse weight and the average tumor volume for Capomulin treatment. Plot the results with linear regression based on the previous scatter plot.
 
-![Screen Shot of Linear Plot](matplotlibss/linear.png){:width="300px"}
+![Screen Shot of Linear Plot](matplotlibss/linear.png)
 
 * Analyse the data.
-![Screen Shot of Analysis](matplotlibss/analysis.png){:width="300px"}
+![Screen Shot of Analysis](matplotlibss/analysis.png)
 
 
 #### Technologies used
