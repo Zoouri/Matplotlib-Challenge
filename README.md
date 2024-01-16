@@ -20,7 +20,7 @@ Perform the necessary calculations and then create a high-level summary statisti
 * Cleaning the data from duplicates to create a clean DataFrame for future reference
 * Generate a summary statistic table calculating: the mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
 
-![Screen Shot of Summary Table](matplotlibss/summarytable.png)
+![Screen Shot of Summary Table](matplotlibss/summarytable.png = 300x)
 
 * Generate a Bar Plot using both Panda's DataFrame.plot() and Matplotlib's pyplot that calculates the relation between Timepoints and Drug Regimen.
 
