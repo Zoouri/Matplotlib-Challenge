@@ -1,4 +1,4 @@
-![Cover photo](matplotlibss/lab.jpeg.jpeg =300x)
+![Cover photo](matplotlibss/lab.jpeg.jpeg)
 
 Source: https://www.google.com/search?q=funny+testing+lab+photos&sca_esv=598710583&tbm=isch&sxsrf=ACQVn09OfmOEv4AUyJMooSkXc8pOwImh5Q:1705382181236&source=lnms&sa=X&ved=2ahUKEwjjtPnYk-GDAxU4R2wGHebGAzAQ_AUoAXoECAEQAw&biw=1336&bih=881&dpr=1#imgrc=rTb0Xp5JNG_yTM
 
